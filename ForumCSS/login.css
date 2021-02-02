@@ -1,0 +1,50 @@
+html, body 
+{
+  font-family: arial, sans-serif;
+  overflow: auto;
+}
+
+div,form{
+	
+	text-align: center;
+	color: red;
+	padding-top : 1%; 
+	border: 1px solid powderblue;
+	
+	
+}
+input{
+	
+	width: 20%;
+	height : 40px;
+	font-size:20px;
+	
+}
+
+button{
+	
+	width:10%;
+	height:10%;
+	font-size:25px;
+	
+}
+
+#Custom{
+	text-align: center;
+	background-color: white;
+	size: 40px;
+	font-size:25px;
+	
+		
+}
+.footer{
+	position:fixed;
+	left:0;
+	bottom:0;
+	width:100%;
+	background-color:white;
+	text-align: center;
+	border: 3px solid green;
+}
+
+

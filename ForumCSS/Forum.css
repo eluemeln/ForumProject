@@ -1,0 +1,47 @@
+html, body 
+{
+  font-family: arial, sans-serif;
+  overflow: auto;
+}
+
+#cont{
+	
+	background-color: green;
+	
+	padding-bottom:10px;
+	padding-left: 4px;
+	border: 0.5px solid green;
+	font-weight:900;
+}
+a:hover{
+	
+	color:red;
+}
+.container{
+	
+	padding-left:0px;
+	background-color: georgian;
+	border:1px solid green;
+	column-count:2;
+	height:40%;
+	font-weight:normal;
+	
+}
+#cont{
+	text-align:right-side;
+	background-color: gray;
+	
+	padding-bottom:30px;
+	padding-left: 1px;
+	border: 0.5px solid green;
+	
+}
+
+.footer{
+	position:fixed;
+	left:0;
+	bottom:0;
+	width:100%;
+	background-color:red;
+	text-align: center;
+	border : 2px solid green;

@@ -1,0 +1,28 @@
+body
+
+{
+background-color:brown;
+padding-left: 30px;
+scroll-behavior: auto;
+}
+#header{
+  background: cyan;
+  width: 97%;
+  height: inherit;
+}
+img
+{
+  width:  20%;
+  height:10%;
+  margin-top: 30px;
+  margin-left: 0px;
+  border-color: black;
+  padding-top: 30px;
+}
+#link
+{
+background-color: white;
+width: :50px;
+height:55px;
+
+}

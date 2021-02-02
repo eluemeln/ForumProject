@@ -1,0 +1,47 @@
+html, body 
+{
+  font-family: arial, sans-serif;
+  overflow: auto;
+}
+
+h2{
+	
+	text-align:center;
+	
+	
+}
+
+.center{
+	padding-left:20px;
+	border : 2px solid green;
+		
+}
+input{
+	
+	width: 20%;
+	height : 40px;
+	font-size:35px;
+	
+}
+textarea{
+	width :40%;
+	height: 200px;	
+}
+button{
+	
+	width:10%;
+	height:10%;
+	font-size:25px;
+	
+}
+
+.footer{
+	
+	position:fixed;
+	left:0;
+	bottom:0;
+	width:100%;
+	background-color:white;
+	text-align: center;
+	border: 3px solid green;
+}
